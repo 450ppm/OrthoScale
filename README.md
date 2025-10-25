@@ -13,8 +13,8 @@
 
 Ajoutez ce lien ci‑dessous pour un accès direct :
 
-- Lien : `https://<votre-utilisateur>.github.io/OrthoScale/`
-- Badge : `[![Ouvrir l'app](https://img.shields.io/badge/Ouvrir%20l%27app-OrthoScale-blue)](https://<votre-utilisateur>.github.io/OrthoScale/)`
+- Lien : https://<votre-utilisateur>.github.io/OrthoScale/
+- Badge : [![Ouvrir l'app](https://img.shields.io/badge/Ouvrir%20l%27app-OrthoScale-blue)](https://<votre-utilisateur>.github.io/OrthoScale/)
 
 > Remplacez `<votre-utilisateur>` par votre nom d’utilisateur GitHub.
 
