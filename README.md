@@ -1,37 +1,45 @@
-# OrthoScale
+🧮 PixelSize · Calculateur de Taille de Pixel
 
-> GitHub ne permet pas d’exécuter des formulaires ou du JavaScript dans le README. Pour que les utilisateurs puissent utiliser l’application directement, publiez la page via GitHub Pages et ajoutez un lien ici.
+PixelSize est une petite application web permettant de calculer la taille de pixel nécessaire à la réalisation d’une orthovue à partir de la résolution (DPI) et de l’échelle souhaitée.
 
-### Utiliser l’application en ligne (GitHub Pages)
-1. Ouvrez votre dépôt sur GitHub → `Settings` → `Pages`.
-2. Dans "Build and deployment" :
-   - Source : "Deploy from a branch"
-   - Branch : `main` / dossier `/ (root)`
-   - Cliquez sur "Save".
-3. Après quelques minutes, votre site sera disponible à l’adresse :
-   - `https://<votre-utilisateur>.github.io/OrthoScale/`
+Elle est pensée pour les architectes, géomaticiens et spécialistes du relevé 3D qui souhaitent rapidement déterminer la résolution optimale d’une image orthographique en fonction de son usage final (plans, photogrammétrie, documentation patrimoniale, etc.).
 
-Ajoutez ce lien ci‑dessous pour un accès direct :
+🚀 Fonctionnalités
 
-- Lien : https://<votre-utilisateur>.github.io/OrthoScale/
-- Badge : [![Ouvrir l'app](https://img.shields.io/badge/Ouvrir%20l%27app-OrthoScale-blue)](https://<votre-utilisateur>.github.io/OrthoScale/)
+Calcul de la taille de pixel en cm et en mètre
 
-> Remplacez `<votre-utilisateur>` par votre nom d’utilisateur GitHub.
+Affichage de la formule utilisée pour transparence et vérification
 
-### Alternative rapide (sans Pages)
-Si vous ne pouvez pas activer Pages tout de suite, utilisez un aperçu HTML direct :
+Préremplissage automatique des valeurs usuelles (150 DPI, échelle 1/20)
 
-`https://htmlpreview.github.io/?https://raw.githubusercontent.com/<votre-utilisateur>/OrthoScale/main/index.html`
+Résultats arrondis à 6 décimales pour une précision fine
+​
 
-> Remplacez `<votre-utilisateur>` par votre nom d’utilisateur GitHub.
+🛠️ Utilisation
 
-### Capture d’écran
-![Aperçu de l’application](./121_50_web.png)
+Saisissez la résolution en DPI et l’échelle souhaitée (1/X).
 
-### Développement local
-- Ouvrez `index.html` directement dans votre navigateur (double‑clic) ou servez le dossier avec un serveur statique.
-- Exemple (Node.js) : `npx serve .` puis ouvrez l’URL affichée.
+Cliquez sur Calculer la Taille de Pixel.
 
-### FAQ
-**Pourquoi le formulaire ne s’affiche pas / ne fonctionne pas dans le README ?**
-- GitHub traite le README en Markdown et filtre les éléments interactifs/JS pour des raisons de sécurité. Les formulaires et scripts ne sont pas exécutés dans le README. La solution officielle est d’héberger la page via GitHub Pages et de lier le site depuis le README.
+Les résultats s’affichent instantanément avec le détail du calcul.
+
+🌐 Démo en ligne
+
+👉 Ouvrir l’application
+
+[![Ouvrir l'app](https://img.shields.io/badge/Ouvrir%20l%27app-OrthoScale-blue)](https://450ppm.github.io/OrthoScale/)
+
+📂 Technologies
+
+HTML5 / CSS3 / JavaScript pur
+
+Aucun framework ni dépendance externe
+
+Design responsive compatible mobile/tablette
+
+📄 Licence
+
+Projet open source sous licence MIT.
+Créé par 450ppm – Atelier d’architecture & numérique du patrimoine.
+
+
