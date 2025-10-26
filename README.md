@@ -29,7 +29,7 @@ Les résultats s’affichent instantanément avec le détail du calcul.
 
 👉 Ouvrir l’application
 
-[![Ouvrir l'app](https://img.shields.io/badge/Ouvrir%20l%27app-OrthoScale-blue)](https://450ppm.github.io/OrthoScale/)
+[![Ouvrir l'app](https://img.shields.io/badge/Ouvrir%20l%27app-OrthoScale-blue)](https://450ppm.github.io/OrthoScale/OrthoScale/)
 
 📂 Technologies
 
