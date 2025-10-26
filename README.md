@@ -1,3 +1,5 @@
+![PixelSize](./pixelsize_logo.png)
+
 🧮 PixelSize · Calculateur de Taille de Pixel
 
 PixelSize est une petite application web permettant de calculer la taille de pixel nécessaire à la réalisation d’une orthovue à partir de la résolution (DPI) et de l’échelle souhaitée.
