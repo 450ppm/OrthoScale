@@ -1,6 +1,6 @@
-🧮 Orthoscale · Calculateur de Taille de Pixel
+🧮 PixelSize · Calculateur de Taille de Pixel
 
-Orthoscale est une petite application web permettant de calculer la taille de pixel nécessaire à la réalisation d’une orthovue à partir de la résolution (DPI) et de l’échelle souhaitée.
+PixelSize est une petite application web permettant de calculer la taille de pixel nécessaire à la réalisation d’une orthovue à partir de la résolution (DPI) et de l’échelle souhaitée.
 
 Elle est pensée pour les architectes, géomaticiens et spécialistes du relevé 3D qui souhaitent rapidement déterminer la résolution optimale d’une image orthographique en fonction de son usage final (plans, photogrammétrie, documentation patrimoniale, etc.).
 
